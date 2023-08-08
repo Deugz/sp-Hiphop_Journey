@@ -16,7 +16,7 @@ release = '0.0.1'
 
 comments_config = {
    "utterances": {
-      "repo": "https://github.com/Deugz/sp-Science_Journey",
+      "repo": "https://github.com/Deugz/sp-Hiphop_Journey",
       "optional": "config",
    }
 }
@@ -53,51 +53,78 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "**.ipynb_checkpoints"]
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'pydata_sphinx_theme'
-html_logo = "_static/Logo/logo_SFTP.png"
-html_favicon = "_static/Logo/logo_SFTP.png"
+html_logo = "_static/Logo/HLA-Logo.png"
+html_favicon = "_static/Logo/HLA-Logo.png"
 html_static_path = ['_static']
 
 html_theme_options = {
+#    "analytics": {"google_analytics_id": "G-E1LZY6PF7T"},    
     "external_links": [
         {
-            "url": "https://deugz.github.io/nb-profile/_build/html/intro.html",
-            "name": " &nbsp 👽 Music",
+            "url": "https://deugz.github.io/nb-hiphop/_build/html/intro.html",
+            "name": " &nbsp 🎤 Music",
             "attributes": {"target": "_blank"},
         },
         {
-            "url": "https://deugz.github.io/nb-sbfp/_build/html/intro.html",
-            "name": " &nbsp ✊ Breakdance",
+            "url": "https://deugz.github.io/jb-dance-hh/_build/html/intro.html",
+            "name": " &nbsp 🤸 Breakdance",
             "attributes": {"target": "_blank"},
         },
         {
-            "url": "https://deugz.github.io/nb-notes/_build/html/intro.html",
-            "name": "&nbsp ✏️ Graphity",
+            "url": "https://deugz.github.io/jb-graff/_build/html/intro.html",
+            "name": "&nbsp 🎨 Street Art",
             "attributes": {"target": "_blank"},
         },
         {
-            "url": " https://deugz.github.io/nb-tools/_build/html/intro.html",
-            "name": "&nbsp 🔧 Tools &nbsp",
+            "url": "https://deugz.github.io/jb-hiphop-research/_build/html/intro.html",
+            "name": "&nbsp 🔧 Research",
             "attributes": {"target": "_blank"},
         },
         {
-            "url": "",
-            "name": "&nbsp 🗨️ Forum ",
+            "url": " https://deugz.github.io/jb-society-hh/_build/html/intro.html",
+            "name": "&nbsp 🌍 Society &nbsp",
             "attributes": {"target": "_blank"},
         },
+
     ],
     "header_links_before_dropdown": 10,    
     "icon_links": [
         {
             "name": "GitHub",
-            "url": "https://github.com/pydata/pydata-sphinx-theme",
+            "url": "https://github.com/Deugz/sp-Hiphop_Journey",
             "icon": "fa-brands fa-github",
+        },
+        {
+            "name": "Home",
+            "url": "https://deugz.github.io/Encyclopedia-Home/build/html/index.html",
+            "icon": "fa-solid fa-house",
+        },
+        {
+            "name": "Profile",
+            "url": "https://deugz.github.io/nb-profile/_build/html/intro.html",
+            "icon": "fa-solid fa-user",
+        },
+        {
+            "name": "Blog",
+            "url": "https://deugz.github.io/ab-blog/_website/index.html",
+            "icon": "fa-solid fa-blog",
+        },
+        {
+            "name": "Tools",
+            "url": "https://deugz.github.io/nb-tools/_build/html/intro.html",
+            "icon": "fa-solid fa-screwdriver-wrench",
+        },
+        {
+            "name": "Forum",
+            "url": "https://deugz.github.io",
+            "icon": "fa-solid fa-comments",
         },
     ],
     
 
     "logo": {
-        "text": "V. Deguin",
-        "image_dark": "_static/Logo/logo_SFTP.png",
+        "text": "Hiphhop Living Arxiv",
+        "image_dark": "_static/Logo/HLA-Logo.png",
         "alt_text": "V. Deguin",
     },
     
