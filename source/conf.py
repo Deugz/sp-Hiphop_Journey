@@ -58,7 +58,7 @@ html_favicon = "_static/Logo/HLA-Logo.png"
 html_static_path = ['_static']
 
 html_theme_options = {
-#    "analytics": {"google_analytics_id": "G-E1LZY6PF7T"},    
+    "analytics": {"google_analytics_id": "G-N80S8Q5VH7"},    
     "external_links": [
         {
             "url": "https://deugz.github.io/nb-hiphop/_build/html/intro.html",
