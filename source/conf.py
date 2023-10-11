@@ -62,32 +62,42 @@ html_theme_options = {
     "external_links": [
         {
             "url": "https://deugz.github.io/nb-hiphop/_build/html/intro.html",
-            "name": " &nbsp 🎤 Music",
+            "name": " &nbsp 💽 DJ's",
+            "attributes": {"target": "_blank"},
+        },
+        {
+            "url": "https://deugz.github.io/nb-hiphop/_build/html/intro.html",
+            "name": " &nbsp 🎤 MC's",
             "attributes": {"target": "_blank"},
         },
         {
             "url": "https://deugz.github.io/jb-dance-hh/_build/html/intro.html",
-            "name": " &nbsp 🤸 Breakdance",
+            "name": " &nbsp 🤸 Breakdancers",
             "attributes": {"target": "_blank"},
         },
         {
             "url": "https://deugz.github.io/jb-graff/_build/html/intro.html",
-            "name": "&nbsp 🎨 Street Art",
+            "name": "&nbsp 🎨 Graffers",
+            "attributes": {"target": "_blank"},
+        },
+        {
+            "url": "https://deugz.github.io/jb-graff/_build/html/intro.html",
+            "name": "&nbsp ☝ 5th Elements",
             "attributes": {"target": "_blank"},
         },
         {
             "url": "https://deugz.github.io/jb-hiphop-research/_build/html/intro.html",
-            "name": "&nbsp 🔧 Research",
+            "name": "&nbsp 🔧 Research (Accademia)",
             "attributes": {"target": "_blank"},
         },
         {
             "url": " https://deugz.github.io/jb-society-hh/_build/html/intro.html",
-            "name": "&nbsp 🌍 Society &nbsp",
+            "name": "&nbsp 🌍 Societal Impact &nbsp",
             "attributes": {"target": "_blank"},
         },
 
     ],
-    "header_links_before_dropdown": 10,    
+    "header_links_before_dropdown": 6,    
     "icon_links": [
         {
             "name": "GitHub",
@@ -123,7 +133,7 @@ html_theme_options = {
     
 
     "logo": {
-        "text": "Hiphhop Living Arxiv",
+        "text": "&nbsp Hiphop Living Arxiv &nbsp &nbsp",
         "image_dark": "_static/Logo/HLA-Logo.png",
         "alt_text": "V. Deguin",
     },

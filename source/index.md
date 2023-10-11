@@ -33,19 +33,212 @@ s0.parentNode.insertBefore(s1,s0);
 <br>
 <br>
 
-:::{image} _static/Title/hiphop-living-arxiv.png
+:::{image} _static/Title/Graffity/Graffity-title1.png
 :width: 100%
 :::
 
-***
-
-<p class="emphase">Hiphop is one of the most influencial <strong>socio-cultural</strong> movement since it's inception in New York in the early 70's. It has now spread all over the world and have taken mutiple form by being embraced by various countries and cultures. It is of prime importance to record it's heritage</p>
-
+<br>
+<br>
 <br>
 
 ***
 
-<p class="emphase2"><strong>50 years of Hiphop</strong></p>
+<br>
+
+:::::{grid} 2
+
+::::{grid-item}
+:columns: 8
+
+```{epigraph}
+
+Hiphop is one of the most influencial <strong>socio-cultural</strong> movement since it's inception in New York in the early 70's. It has now spread all over the world and have taken mutiple form by being embraced by various countries and cultures. It is of prime importance to record it's heritage and the aim of this ...
+
+```   
+
+
+
+<br>
+<br>
+
+
+
+::::
+
+
+::::{grid-item}
+:columns: 4
+
+:::{image} _static/Logo/HLA-Logo.png
+:width: 400px
+:::
+
+<br>
+
+
+:::::
+
+
+
+# **Web-Journal** 
+
+
+
+:::::{grid} 2
+
+::::{grid-item}
+:columns: 8
+
+<br>
+
+:::{image} _static/Photos/IMG_4028.jpg
+:width: 100%
+:::
+
+```{note}
+
+Presentation of ourselves, story about the borth of the project
+- check abstract conf
+
+```
+    
+
+::::
+
+
+::::{grid-item}
+:columns: 4
+
+
+
+<div id="colour">
+
+<p class="emphase2">   
+<strong>Editors </strong> 
+</p> 
+
+***
+    
+- [Vincent Deguin](https://deugz.github.io/nb-profile/_build/html/intro.html) - <span class="hovertext" data-hover="I am trying to experiment how we can create meaningfull connections via the internet "> 🗨 </span>
+  
+- [Barry Watson](https://www.breaktothebeat.com/)
+    
+<br>
+    
+- <span class="hovertext" data-hover="Yes, you can participate, regardless of how much you want to be involved "> You ?  </span> 
+
+</div>
+
+<br>
+
+<p class="emphase">   
+<strong>Messages </strong> 
+</p>
+
+
+```{admonition} In progress
+:class: tip, dropdown
+
+This Website is the realisation of an idea ... It is in it's very early stage.
+
+```
+
+
+
+::::
+
+:::::
+
+
+
+
+
+
+<br>
+<br>
+
+::::{tab-set}  
+
+:::{tab-item} Free & Open Source
+
+Accessible to all
+
+:::
+
+
+:::{tab-item} Web 3.0 Technologies
+
+Semantic web
+
+:::    
+    
+:::{tab-item} Participative
+
+Everybody can contribute
+    
+:::
+    
+    
+:::{tab-item} Anarchist
+
+No governance, freedom
+    
+:::
+    
+    
+:::: 
+
+<br>
+
+
+
+
+
+# Hiphop
+
+
+<p class="emphase2">   
+<strong>4 Pillars </strong> 
+</p> 
+
+
+:::::{grid} 
+
+::::{grid-item}
+:columns: 6
+
+```{note}
+
+Explain the different elements and link to the different websites:
+- 💽
+- 🎤
+- 🤸
+- 🎨
+
+```
+
+::::
+
+::::{grid-item}
+:columns: 1
+
+
+::::
+
+::::{grid-item}
+:columns: 5
+
+:::{image} _static/Images/4rn_0ld-5-pilar-hiphop-sd.jpg
+:width: 100%
+:::
+
+::::
+
+:::::
+
+
+
+<p class="_static/Logo/HLA-Logo.pngemphase2"><strong>50 years of Hiphop</strong></p>
 
 
 ::::{grid} 2
@@ -67,8 +260,23 @@ This makes it a critical heritage to document and save as well as making this ta
 
 ::::
 
+## Conference
 
-# Hiphop
+- [Archining hiphop: 50 years in the making](https://www.open.edu/openlearncreate/course/index.php?categoryid=797)
+
+- Programme:
+
+- Key Notes Speakers
+
+```{note}
+
+display pdf (iframe) inside dropdown ?
+
+```
+
+
+
+
 
 ## Barry
 
