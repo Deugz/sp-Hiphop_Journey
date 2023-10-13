@@ -83,6 +83,18 @@ Hiphop is one of the most influencial <strong>socio-cultural</strong> movement s
 # **Web-Journal** 
 
 
+```{note}
+
+**To Do**
+
+
+- Important paragraph about what I try to achieve:
+New way to create and sustain social connections using the internet.
+I think a lots of time, effort, and content is given and lost on social media. I would like to create a new web-plateform that promote a different kind of dialogue.
+
+
+```
+
 
 :::::{grid} 2
 
@@ -162,26 +174,51 @@ This Website is the realisation of an idea ... It is in it's very early stage.
 :::{tab-item} Free & Open Source
 
 Accessible to all
+Uses the following technologies
+- [JupyterBook]()
+- [Github]()
+
+:::
+
+:::{tab-item}  Participative 
+
+Everybody can contribute. Rather than sharing using classical social media, why not share your content in a more **constructive** way
+
+- Inclusive    
+:::
+
+:::{tab-item} For the Community
+
+
+Practitioners, archivist, Hip hop enthusisats ... All together interacting in a dedicated web plateform to construct something meaningfull.
 
 :::
 
 
-:::{tab-item} Web 3.0 Technologies
+:::{tab-item} Web 3.0 
 
+The Web 3.0 is ... 
+It allow for ...
 Semantic web
+
+```{note}
+
+- create **knowledge graph** 
+    - svg or web
+
+```
 
 :::    
     
-:::{tab-item} Participative
 
-Everybody can contribute
-    
-:::
     
     
-:::{tab-item} Anarchist
+:::{tab-item} Independant
 
-No governance, freedom
+Self-managed, Anarchist, No governance, freedom
+
+This project is also an experiment in many aspects:
+- How to create a community online
     
 :::
     
@@ -196,41 +233,52 @@ No governance, freedom
 
 # Hiphop
 
-
 <p class="emphase2">   
-<strong>4 Pillars </strong> 
+<strong>Nation </strong> 
 </p> 
-
 
 :::::{grid} 
 
 ::::{grid-item}
-:columns: 6
+:columns: 8
+
 
 ```{note}
 
-Explain the different elements and link to the different websites:
-- 💽
-- 🎤
-- 🤸
-- 🎨
+Describe here the scope of the project
+
+**To do**:
+
+- The idea is to keep a discussion channel open between us. I have created one web page for each person present and speaking at the conference (link). I have included your name, the abstract of your talk and the video presentation. If you want this not to appear here, please let me know, and if you want me to add some more informations or content (pictures, links, bio ...) let me know as well. Remember that you can use 3 different methods to interact (explained above). 
+
+- Before to start archiving, one need to **Collect** first. And this is where I need your help, I provide the structure, the frame, but you must contribute to the content. There is a constellation of people embracing The Hiphop vibes and culture in many different ways, and every story must be told to start envisioingn the impact of a social movement.    
 
 ```
 
-::::
-
-::::{grid-item}
-:columns: 1
 
 
 ::::
 
-::::{grid-item}
-:columns: 5
 
-:::{image} _static/Images/4rn_0ld-5-pilar-hiphop-sd.jpg
-:width: 100%
-:::
+::::{grid-item}
+:columns: 4
+
+```{note}
+
+Plan of the [Home section](https://deugz.github.io/sp-Hiphop_Journey/build/html/content/index.html)
+
+- create a card with home
+
+
+```
+
+- Introduction
+- Creation
+- Community
+- Culture
+- Competition
+
+
 
 ::::
 
@@ -238,8 +286,111 @@ Explain the different elements and link to the different websites:
 
 
 
-<p class="_static/Logo/HLA-Logo.pngemphase2"><strong>50 years of Hiphop</strong></p>
 
+<p class="emphase2">   
+<strong>4 Pillars </strong> 
+</p> 
+
+
+```{note}
+
+
+
+I created 1 dedicated website for each disciplines of hiphop (not all working - need to find a template version)
+
+What would be cool at that point is that 
+
+```
+
+
+::::::{grid} 
+
+:::::{grid-item}
+:columns: 6
+
+::::{grid} 2 
+
+:::{grid-item-card}
+:class-header: bg-light
+🤸  **Breakdancers**
+^^^
+
+[- Anifa]()
+
+
+
++++
+
+[Check it](https://deugz.github.io/jb-dance-hh/_build/html/intro.html)
+
+:::
+
+:::{grid-item-card}
+:class-header: bg-light
+
+🎨 **Graffers**
+^^^
+
+- James
+
+:::
+
+::::
+
+::::{grid} 2 
+
+:::{grid-item-card}
+:class-header: bg-light
+💽 **DJ's**
+^^^
+
+- Barry
+
+:::
+
+:::{grid-item-card}
+:class-header: bg-light
+🎤 **MC's**
+^^^
+
+- Vince
+- Bryan
+- Torsh
+
+
+:::
+
+::::
+
+:::::
+
+:::::{grid-item}
+:columns: 6
+
+:::{image} _static/Images/4rn_0ld-5-pilar-hiphop-sd.jpg
+:width: 100%
+:::
+
+:::::
+
+::::::
+
+
+<p class="emphase2">   
+<strong>And Beyond </strong> 
+</p>
+
+
+```{note}
+
+Card items linking to the remaining sections:
+- 5th Elements
+- Research
+- Archivers ?
+- Social impact
+
+
+```
 
 ::::{grid} 2
 
