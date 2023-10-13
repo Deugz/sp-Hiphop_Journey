@@ -5,34 +5,52 @@
 :caption: Introduction
 :hidden:
 
-Info/intro
-Info/objectives
-Info/map
+Intro/intro
+Intro/objectives
+Intro/map
 ```
 
 ```{toctree}
 :maxdepth: 2
-:caption: Sections
+:caption: Creation
 :hidden:
 
-Sections/Profile/Profile
-Sections/Projects/Projects
-Sections/Research/Research
-Sections/Publications/Publications
-Sections/Teaching/Teaching
-Sections/Blog/Blog
-Sections/Tools/Tools
-Sections/Forum/Forum
+Creation/DJ/DJ-main
+Creation/MC/MC-main
+Creation/Graphers/Graphers
+Creation/Bboys/Breakdancers
+Creation/Capitalism/Capitalism
 
 ```
 
 ```{toctree}
 :maxdepth: 2
-:caption: Appendix
+:caption: Culture
 :hidden:
 
-Perso/to-check
-Perso/journal-de-bord
+Culture/Culture-main
+
+```
+
+
+```{toctree}
+:maxdepth: 2
+:caption: Community
+:hidden:
+
+Community/Community-overview
+Community/Conferences/HArchive_2023
+Community/Peoples/0_People_All
+
+```
+
+```{toctree}
+:maxdepth: 2
+:caption: Competition
+:hidden:
+
+Competition/Competition-main
+
 
 ```
 

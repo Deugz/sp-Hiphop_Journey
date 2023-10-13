@@ -52,13 +52,14 @@ s0.parentNode.insertBefore(s1,s0);
 
 ```{epigraph}
 
-Hiphop is one of the most influencial <strong>socio-cultural</strong> movement since it's inception in New York in the early 70's. It has now spread all over the world and have taken mutiple form by being embraced by various countries and cultures. It is of prime importance to record it's heritage and the aim of this ...
+Hiphop is one of the most influencial <strong>socio-cultural</strong> movement since it's inception in New York in the early 70's. It has now spread all over the world and have taken mutiple form by being embraced by various countries and cultures.
+
+<br>
+
+- Good start but to complement
 
 ```   
 
-
-
-<br>
 <br>
 
 
@@ -73,11 +74,24 @@ Hiphop is one of the most influencial <strong>socio-cultural</strong> movement s
 :width: 400px
 :::
 
-<br>
+```{admonition} To do
+:class: warning, dropdown
+
+This is a sketch of our project looks, it needs to be done more professionaly:
+
+- who ? 
+
+You ? We want to keep the complete independance of our project and hence have no money, we are just looking for people that believe in what we do and are willing to help, if you are a graphic designer, contact us :) (link)
+
+```
 
 
 :::::
 
+
+<p class="emphase">   
+It is of prime importance to record <strong> Hiphop's heritage</strong>, that is the aim of our ...  
+</p> 
 
 
 # **Web-Journal** 
