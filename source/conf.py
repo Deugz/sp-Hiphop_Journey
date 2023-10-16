@@ -39,7 +39,7 @@ extensions = [
   "sphinx_thebe",
 ]
 
-myst_enable_extensions = ["colon_fence", "linkify", "substitution"]
+myst_enable_extensions = ["colon_fence", "linkify", "substitution", "html_image"]
 myst_heading_anchors = 2
 
 

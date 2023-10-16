@@ -2,36 +2,26 @@
 
 ```{toctree}
 :maxdepth: 2
-:caption: Introduction
+:caption: HLA Project
 :hidden:
 
 Intro/intro
+Intro/roadmap
 Intro/objectives
-Intro/map
+Intro/contribute
 ```
 
 ```{toctree}
 :maxdepth: 2
-:caption: Creation
+:caption: Practitioners
 :hidden:
 
 Creation/DJ/DJ-main
 Creation/MC/MC-main
 Creation/Graphers/Graphers
 Creation/Bboys/Breakdancers
-Creation/Capitalism/Capitalism
 
 ```
-
-```{toctree}
-:maxdepth: 2
-:caption: Culture
-:hidden:
-
-Culture/Culture-main
-
-```
-
 
 ```{toctree}
 :maxdepth: 2
@@ -46,96 +36,24 @@ Community/Peoples/0_People_All
 
 ```{toctree}
 :maxdepth: 2
-:caption: Competition
+:caption: Culture
 :hidden:
 
+Culture/Culture-main
+Creation/Capitalism/Capitalism
 Competition/Competition-main
-
-
 ```
 
-## Introduction
 
-::::{grid} 2
+## Welcome
 
-:::{grid-item}
-:columns: 6
 
-```{epigraph} 
-
-You have just set foot on my academic websites portefolio, a deep collection of web pages that may look daunting at first glance. Don't worry, everything is well organised and for the moment you are *on the top of the iceberg*. This website is dedicated to explain and link to the different sections (websites) you can visit and what they contain.
-
+```{figure} ../_static/Images/IA/IA-modif-1.png
+---
+width: 400px
+name: graph_IA
+---
+Made by AI (Artificial Intelligence) - [Reference](https://creator.nightcafe.studio/studio?open=creation&panelContext=%28jobId%3A14ZMndJm2zwDeyo20dr8%29)
 ```
-:::
-
-:::{grid-item}
-:columns: 6
-
-```{image} Docs/Iceberg.png
-
-```
-
-:::
-
-::::
-
-### <strong> &#x2023; <u> The page layout </u></strong>  
-
-```{image} Docs/Page_layout_index.png
-
-```
-
-<br>
-<br>
-
-::::{tab-set} 
-
-:::{tab-item} Top nav
-
-Links to the different websites
-
-:::
-
-:::{tab-item} Left nav
-
-Explanations
-
-:::
-
-:::{tab-item} Right nav
-
-Description
-
-
-:::
-
-:::{tab-item} Site button
-
-Description
-
-:::
-
-
-:::{tab-item} Hypothesis 
-
-Description
-
-
-:::
-
-:::{tab-item} Page content
-
-Description
-
-
-:::
-
-::::
-
-
-### <strong> &#x2023; <u>  Audiences </u></strong>
-
-
-
 
 
