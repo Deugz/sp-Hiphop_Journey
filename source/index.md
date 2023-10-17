@@ -141,7 +141,7 @@ The team are in ...
 :::::{grid} 2
 
 ::::{grid-item-card}
-:link: https://deugz.github.io/SP-Hiphop_Journey/_build/html/content/Community/Peoples/Vincent_Deguin/Vincent_Deguin.html
+:link: https://deugz.github.io/sp-Hiphop_Journey/build/html/content/Community/Peoples/Vincent_Deguin/Vincent_Deguin.html
 :class-header: bg-light
 **Deugz**
 
