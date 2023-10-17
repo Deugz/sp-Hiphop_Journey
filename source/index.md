@@ -141,7 +141,7 @@ The team are in ...
 :::::{grid} 2
 
 ::::{grid-item-card}
-:link: https://deugz.github.io/nb-profile/_build/html/intro.html
+:link: https://deugz.github.io/SP-Hiphop_Journey/_build/html/content/Community/Peoples/Vincent_Deguin/Vincent_Deguin.html
 :class-header: bg-light
 **Deugz**
 
@@ -152,6 +152,9 @@ The team are in ...
 :width: 100%
 :::
 
++++
+
+🎤
 
 ::::
 
@@ -164,14 +167,30 @@ The team are in ...
 ^^^
 
 
-```{image}
+:::{image} _static/Profile-pic/Barry-round.png
+:width: 100%
+:::
 
 
-```
++++
+
+🎤 - 💽
+
 
 ::::
 
 :::::
+
+
+<br>
+
+```{admonition} You maybe?
+:class: warning, dropdown
+
+Explain collaborative ... We are looking for ...
+
+```
+
 
 <br>
 
@@ -283,8 +302,15 @@ Explain Jupyter Book etc ... (cf below)
 <br>
 
 <p class="emphase">   
-<strong> And You! </strong> 
+<strong> You! </strong> 
 </p>
+
+```{admonition} OU Conference 2023
+:class: warning, dropdown
+
+I have created 1 website for each of you, check (link)
+
+```
 
 ***
 
@@ -295,25 +321,28 @@ Explain Jupyter Book etc ... (cf below)
 
 :::{grid-item}
 
-<span class="hovertext" data-hover="I am trying to experiment with how research can be made interactive and entertaining for the general public (within which I count all researchers) "> ![flag alt >>](_static/Svg_icons/chat-bubble-svgrepo-com.svg) </span>
+<span class="hovertext" data-hover="Drop your treasure down, and watch people digg it! "> ![flag alt >>](_static/Svg_icons/dialogue-conversation-bubble-svgrepo-com.svg) </span>
 
 :::
 
 :::{grid-item}
 
- <span class="hovertext" data-hover="I am trying to experiment with how research can be made interactive and entertaining for the general public (within which I count all researchers) "> ![flag alt >>](_static/Svg_icons/handshake-deal-svgrepo-com.svg) </span>
+<span class="hovertext" data-hover="Find yourself on the map (Can be quite tough and confusing at first but relax, explore and you will find your way)"> ![flag alt >>](_static/Svg_icons/treasure-map-svgrepo-com.svg) </span>
+
 
 :::
 
 :::{grid-item}
 
-<span class="hovertext" data-hover="I am trying to experiment with how research can be made interactive and entertaining for the general public (within which I count all researchers) "> ![flag alt >>](_static/Svg_icons/treasure-map-svgrepo-com.svg) </span>
+
+ <span class="hovertext" data-hover="Collaborate"> ![flag alt >>](_static/Svg_icons/handshake-deal-svgrepo-com.svg) </span>
+
 
 :::
 
 :::{grid-item}
 
-<span class="hovertext" data-hover="I am trying to experiment with how research can be made interactive and entertaining for the general public (within which I count all researchers) "> ![flag alt >>](_static/Svg_icons/treasure-svgrepo-com.svg) </span>
+<span class="hovertext" data-hover="Drop your treasure down, and watch people digg it! "> ![flag alt >>](_static/Svg_icons/packaging-cardboard-svgrepo-com.svg) </span>
 
 :::
 
@@ -337,7 +366,71 @@ Explain Jupyter Book etc ... (cf below)
 
 :::::
 
+<br>
+<br>
+
+
+<p class="emphase">   
+<strong>And the Community! </strong> 
+</p>
+
+***
+
+<br>
+
+
+::::{grid} 4
+
+:::{grid-item}
+
+<span class="hovertext" data-hover="Explore"> ![flag alt >>](_static/Svg_icons/search-svgrepo-com.svg) </span>
+
+:::
+
+:::{grid-item}
+
+ <span class="hovertext" data-hover="Enjoy"> ![flag alt >>](_static/Svg_icons/headphones-svgrepo-com.svg) </span>
+
+:::
+
+:::{grid-item}
+
+<span class="hovertext" data-hover="I am trying to experiment with how research can be made interactive and entertaining for the general public (within which I count all researchers) "> ![flag alt >>](_static/Svg_icons/treasure-svgrepo-com.svg) </span>
+
+:::
+
+:::{grid-item}
+
+
+<span class="hovertext" data-hover="Learn"><span class="hovertext" data-hover="Communicate"> ![flag alt >>](_static/Svg_icons/chat-bubble-svgrepo-com.svg) </span>
+</span>
+:::
+
+
+
+::::
+
+<br>
+<br>
+
+:::::{dropdown} ✅ Digg
+
+Explain Jupyter Book etc ... (cf below)
+
+:::::
+
+
+:::::{dropdown} 🚧 Learn
+
+Explain Jupyter Book etc ... (cf below)
+
+:::::
+
+
+
+
 ::::::
+
 
 :::::::
 
@@ -345,7 +438,7 @@ Explain Jupyter Book etc ... (cf below)
 <br>
 
 <p class="emphase">   
-Create and Sustain a <strong>Constructive Dialogue (Encyclopedia)</strong>: 
+Together, create and sustain a <strong>constructive dialogue </strong>(Encyclopedia) 
 </p> 
 
 ```{note}
