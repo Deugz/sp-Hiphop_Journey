@@ -121,7 +121,11 @@ The aim is to provide a plateform, resource and reference point for the knowledg
 
 ```{note}
 
-Dive deeper
+
+- Important paragraph about what I try to achieve:
+New way to create and sustain social connections using the internet.
+I think a lots of time, effort, and content is given and lost on social media. I would like to create a new web-plateform that promote a different kind of dialogue.
+
 
 ```
 
@@ -141,7 +145,7 @@ The team are in ...
 :::::{grid} 2
 
 ::::{grid-item-card}
-:link: https://deugz.github.io/SP-Hiphop_Journey/_build/html/content/Community/Peoples/Vincent_Deguin/Vincent_Deguin.html
+:link: https://deugz.github.io/sp-Hiphop_Journey/build/html/content/Community/Peoples/Vincent_Deguin/Vincent_Deguin.html
 :class-header: bg-light
 **Deugz**
 
@@ -193,6 +197,9 @@ Explain collaborative ... We are looking for ...
 
 
 <br>
+<br>
+
+***
 
 <p class="emphase2">   
 <strong>Objectifs</strong> 
@@ -438,20 +445,24 @@ Explain Jupyter Book etc ... (cf below)
 <br>
 
 <p class="emphase">   
-Together, create and sustain a <strong>constructive dialogue </strong>(Encyclopedia) 
+<strong>Together</strong>, create and sustain a <strong>constructive dialogue </strong> to build an
 </p> 
+
+<p class="emphase2">   
+<strong>Encyclopedia </strong>
+</p>
 
 ```{note}
 
 **To Do**
 
-
-- Important paragraph about what I try to achieve:
-New way to create and sustain social connections using the internet.
-I think a lots of time, effort, and content is given and lost on social media. I would like to create a new web-plateform that promote a different kind of dialogue.
-
+Create a video showing github push expanding (Gource)
+- create a bit and a rap to quickly explain the project as background music (40s).
 
 ```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V0XfleKJSXM?si=fx39DXynwuhYdyw3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 ::::{tab-set}  
