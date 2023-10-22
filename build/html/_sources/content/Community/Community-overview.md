@@ -1,4 +1,13 @@
-# Around the world
+---
+myst:
+  html_meta:
+    "description lang=en": "metadata description"
+    "description lang=fr": "description des métadonnées"
+    "keywords": "Sphinx, MyST"
+    "property=og:locale": "en_US"
+---
+
+# Let's gather
 
 The Hiphop community is incredibely large, dispersed and heteroclyte.
 

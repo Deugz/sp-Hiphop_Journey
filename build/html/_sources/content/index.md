@@ -24,12 +24,12 @@ Creation/Bboys/Breakdancers
 ```
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 3
 :caption: Community
 :hidden:
 
 Community/Community-overview
-Community/Conferences/HArchive_2023
+Community/Conferences/Meetings
 Community/Peoples/0_People_All
 
 ```

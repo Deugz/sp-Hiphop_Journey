@@ -452,18 +452,40 @@ Explain Jupyter Book etc ... (cf below)
 <strong>Encyclopedia </strong>
 </p>
 
+::::{grid} 2
+
+:::{grid-item}
+:columns: 6
+
+About **Hiphop**.
+
+
+:::
+
+:::{grid-item}
+:columns: 6
+
+<div class="embedresize">
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/G8wm7EKKyuY?si=F8Yg_JhCdceMSNC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
+:::
+
+::::
+
+<br>
+
 ```{note}
 
 **To Do**
 
-Create a video showing github push expanding (Gource)
+Create our own video showing github push expanding (Gource)
 - create a bit and a rap to quickly explain the project as background music (40s).
 
 ```
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V0XfleKJSXM?si=fx39DXynwuhYdyw3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
+<br>
 
 ::::{tab-set}  
 
@@ -484,7 +506,7 @@ And Innovant:
 :::    
    
 
-:::{tab-item} Online Tools
+:::{tab-item} Online documentation
 
 Markdown
 
@@ -512,7 +534,7 @@ Strong connections
 
 :::
 
-:::{tab-item} For the Community
+:::{tab-item} For the 🌍
 
 
 Practitioners, archivist, Hip hop enthusisats ... All together interacting in a dedicated web plateform to construct something meaningfull.
@@ -592,9 +614,9 @@ Let's unpack these crazy photos and recording to use this wonderfull event as ou
 <strong>Nation </strong> 
 </p> 
 
-:::::{grid} 
+:::::::{grid} 
 
-::::{grid-item}
+::::::{grid-item}
 :columns: 8
 
 
@@ -612,15 +634,15 @@ Describe here the scope of the project
 
 
 
-::::
+::::::
 
 
-::::{grid-item}
+::::::{grid-item}
 :columns: 4
 
 
 <p class="emphase">   
-<strong>Do more than this</strong> 
+<strong>Do more than this:</strong> 
 </p> 
 
 <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
@@ -628,22 +650,44 @@ Describe here the scope of the project
 
 
 <p class="emphase">   
-<strong> Come</strong> 
+<strong> Come Home</strong> 
 </p>
 
-:::{card}
+
+:::::{grid} 3
+
+::::{grid-item}
+:columns: 2
+
+::::
+
+::::{grid-item-card}
 :link: https://deugz.github.io/sp-Hiphop_Journey/build/html/content/index.html
+:class-header: bg-light
+:columns: 8
 **Home**
 ^^^
 
+:::{image} _static/Svg_icons/statue-of-liberty-svgrepo-com.svg
+:width: 100%
 :::
 
+::::
+
+::::{grid-item}
+:columns: 2
+
+::::
+
+:::::
+
+<br>
+
+<p class="emphase">   
+<strong>And Contribute</strong> 
+</p> 
 
 <div id="colour">
-    
-<p class="emphase">   
-<strong>Contribute</strong> 
-</p> 
     
 **Plan**
 
@@ -658,11 +702,11 @@ Describe here the scope of the project
 
 
 
-</div>
-    
-::::
+</div> 
+  
+::::::
 
-:::::
+:::::::
 
 
 
