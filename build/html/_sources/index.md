@@ -129,6 +129,8 @@ I think a lots of time, effort, and content is given and lost on social media. I
 
 ```
 
+- **Citizen Journalism**: important thing to mention (link to in depth explanation or span)
+
 <p>
 The team are in ...
 </p>

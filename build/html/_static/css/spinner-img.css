@@ -1,0 +1,17 @@
+@property --a {
+	syntax: '<angle>'; 
+	initial-value: 0deg;
+	inherits: false
+}
+
+.spinner {
+	box-sizing: border-box; /* ensures padding is subtracted out of width */
+	place-self: center; /* put in the middle of grid cell along both axes */
+	width: min(100%, 18em); /* give it a width, but ensure no overflow */
+	padding: 1.25em;
+	border-radius: 50%; /* turn square into disc */
+	box-shadow: 2px 2px 17px #000;
+	animation: a 2s linear infinite;
+}
+
+@keyframes a { to { --a: 1turn } }

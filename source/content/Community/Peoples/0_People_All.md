@@ -12,6 +12,7 @@ For the moment, I have used the [Hiphop archive conference 2023 Abstract Book] t
 
 ::::{grid-item-card}
 :class-header: bg-light
+:link: Vincent_Deguin/Vincent_Deguin.html
 **Vincent Deguin**
 ^^^
 
@@ -64,6 +65,10 @@ For the moment, I have used the [Hiphop archive conference 2023 Abstract Book] t
 
 ::::
 
+:::::
+
+:::::{grid}
+
 ::::{grid-item-card}
 :class-header: bg-light
 **Anifa**
@@ -74,38 +79,6 @@ For the moment, I have used the [Hiphop archive conference 2023 Abstract Book] t
 +++
 
 🎨
-
-::::
-
-:::::
-
-:::::{grid}
-
-::::{grid-item-card}
-:class-header: bg-light
-**Vincent Deguin**
-^^^
-
-
-
-
-
-+++
-
-🎤
-
-::::
-
-::::{grid-item-card}
-:class-header: bg-light
-**Barry Watson**
-^^^
-
-
-
-+++
-
-🎤 - 💽
 
 ::::
 
